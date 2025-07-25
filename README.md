@@ -43,8 +43,12 @@ pip install -r requirements.txt
 
 
 requirements.txt
+fastapi
+uvicorn
 streamlit
-requests
+sentence-transformers
+openai
+faiss-cpu
 python-dotenv
 
 
